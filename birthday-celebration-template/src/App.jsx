@@ -96,11 +96,11 @@ function App() {
           <h1 id="heroTitle">
             {birthdayReached ? (
               <>
-                Happiestt Birthday <span className="highlight">[Jaanuu]</span> 🎂
+                Happiestt Birthday <span className="highlight"> Jaanuu</span> 🎂
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">[Disha]'s</span>{" "}
+                Counting down to <span className="highlight"> Disha's</span>{" "}
                 special day 🎂
               </>
             )}
@@ -182,3 +182,4 @@ function App() {
 }
 
 export default App;
+
