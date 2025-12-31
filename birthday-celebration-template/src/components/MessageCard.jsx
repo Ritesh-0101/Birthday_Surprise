@@ -14,16 +14,12 @@ function MessageCard({ isActive }) {
   const messageContentRef = useRef(null);
 
   const message = `Betuu,
+Happiest Birthday My Jaana.Thank You For Existing My Love.
+You are the most important person in my life,
+with you every second is like heaven, because of you i smile everyday my princess.
+You are like an angle in my life, i can't express what is feel for you. I lovee youu so so much my princess
 
-Your personalized birthday message goes here.
-
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
-
-Happiesttt Birthday Bebuuuu ! 🎉
+Happiesttt Birthday Betu ! 🎉
 
 — Yourss and only yourss`;
 
@@ -217,4 +213,5 @@ Happiesttt Birthday Bebuuuu ! 🎉
 }
 
 export default MessageCard;
+
 
